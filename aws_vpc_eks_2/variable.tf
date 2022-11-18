@@ -7,7 +7,7 @@ variable "region" {
 variable "cidr-block-vpc" {
   description = "This is CIDR to VPC"
   type = string
-  default = 10.232.44.0/22
+  default = "10.232.44.0/22"
 }
 
 variable "name-vpc" {
