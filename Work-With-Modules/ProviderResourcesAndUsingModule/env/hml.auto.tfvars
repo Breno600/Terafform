@@ -1,0 +1,16 @@
+account_id          = "" 
+region              = ""
+name_aplication     = ""  
+ambiente            = ""
+cluster_ecs_arn     = "" 
+list_subnets        = ["", "" ]    
+security_groups_id  = ""  
+port                = 80
+project             = ""
+manager_project     = ""    
+account_vpc_id      = ""    
+path_health_check   = ""        
+listener_https_arn  = ""           
+header              = ""
+cpu                 = 512
+memory              = 1024
